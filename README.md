@@ -1,1 +1,1 @@
-# web-services-and-appliactions
+# web-services-and-applications
